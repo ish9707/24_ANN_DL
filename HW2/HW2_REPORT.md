@@ -29,12 +29,12 @@ Total parameters for Custom MLP = 56,580
 This report evaluates the performance of two neural network models, LeNet-5 and Custom MLP, during their training and validation processes. A comparative analysis was conducted by examining the trends of loss values and accuracy.
 
 Result of LeNet-5
-<img src="/home/ishwang/hw/24_ANN_DL/HW2/mnist-classification/template/LeNet-5_metrics.png">
+<img src="./mnist-classification/template/LeNet-5_metrics.png">
 
 The training loss for the LeNet-5 model decreased sharply at the beginning and then stabilized. The training accuracy continually increased, achieving high levels. Both validation loss and accuracy showed patterns similar to the training results, indicating successful generalization of the model.
 
 Result of Custom MLP
-<img src="/home/ishwang/hw/24_ANN_DL/HW2/mnist-classification/template/Custom_MLP_metrics.png">
+<img src="./mnist-classification/template/Custom_MLP_metrics.png">
 
 For the Custom MLP model, the training loss decreased rapidly before stabilizing at a certain level. The training accuracy was maintained at a relatively high level, and both validation loss and accuracy also showed trends very similar to the trianing process.
 
